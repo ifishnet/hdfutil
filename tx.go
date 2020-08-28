@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/ifishnet/hdf/chaincfg/chainhash"
-	"github.com/ifishnet/hdf/wire"
+	"github.com/ifishnet/hdfd/chaincfg/chainhash"
+	"github.com/ifishnet/hdfd/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

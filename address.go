@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ifishnet/hdf/hdfec"
-	"github.com/ifishnet/hdf/chaincfg"
+	"github.com/ifishnet/hdfd/hdfec"
+	"github.com/ifishnet/hdfd/chaincfg"
 	"github.com/ifishnet/hdfutil/base58"
 	"github.com/ifishnet/hdfutil/bech32"
 	"golang.org/x/crypto/ripemd160"

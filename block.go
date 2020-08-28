@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ifishnet/hdf/chaincfg/chainhash"
-	"github.com/ifishnet/hdf/wire"
+	"github.com/ifishnet/hdfd/chaincfg/chainhash"
+	"github.com/ifishnet/hdfd/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

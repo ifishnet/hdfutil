@@ -5,9 +5,9 @@
 package bloom
 
 import (
-	"github.com/ifishnet/hdf/blockchain"
-	"github.com/ifishnet/hdf/chaincfg/chainhash"
-	"github.com/ifishnet/hdf/wire"
+	"github.com/ifishnet/hdfd/blockchain"
+	"github.com/ifishnet/hdfd/chaincfg/chainhash"
+	"github.com/ifishnet/hdfd/wire"
 	"github.com/ifishnet/hdfutil"
 )
 

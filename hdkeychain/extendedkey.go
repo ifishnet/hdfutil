@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ifishnet/hdf/hdfec"
-	"github.com/ifishnet/hdf/chaincfg"
-	"github.com/ifishnet/hdf/chaincfg/chainhash"
+	"github.com/ifishnet/hdfd/hdfec"
+	"github.com/ifishnet/hdfd/chaincfg"
+	"github.com/ifishnet/hdfd/chaincfg/chainhash"
 	"github.com/ifishnet/hdfutil"
 	"github.com/ifishnet/hdfutil/base58"
 )
